@@ -4,13 +4,13 @@ Just some notes and QB64 Programs I will Write as time goes by in a cloud for Hy
 Also just download the zip file.
 https://github.com/smokingwheels/hyperacusis/archive/master.zip
 
-Windows
+Windows:
 Git client for Github download https://git-for-windows.github.io/
 
-Linux
+Linux:
 sudo apt-get install git
 
-MAC
+MAC:
 For you to find out.
 
 You can contact me on Twitter https://twitter.com/smokingwheels
